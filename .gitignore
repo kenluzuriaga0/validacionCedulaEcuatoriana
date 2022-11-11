@@ -1,0 +1,64 @@
+# Class Files #
+*.class
+*.backup
+*.jar
+*.war
+*.ear
+*.NavData
+*.bak
+##############################
+## Maven
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+##############################
+## NetBeans
+##############################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+faces-config.NavData
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.jpb/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+/bin/
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
